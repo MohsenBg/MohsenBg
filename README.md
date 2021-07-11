@@ -4,22 +4,23 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on links below <br/>
 
-🔗Skype:
-👉  https://join.skype.com/invite/M6l6u1R7Eph6
 
-🔗Email:
+🔗Email: <br>
 👉 moh.1380.1393@gmnail.com
 
-🔗Facebook:
+🔗Facebook: <br>
 👉 https://www.facebook.com/mohsen.bagheri.750546
 
-🔗Instagram:
+🔗Instagram: <br>
 👉  https://www.instagram.com/invites/contact/?i=1q59sni4eyvtf&utm_content=iqxu2jw
 
-🔗Website: 
+🔗Website: <br>
 👉 https://my-web-site-mohsenbg.vercel.app/
 
-🔗Telegram: 
+🔗Skype: <br>
+👉  https://join.skype.com/invite/M6l6u1R7Eph6
+
+🔗Telegram: <br>
 👉 https://t.me/Mohsenbg1
 
 
