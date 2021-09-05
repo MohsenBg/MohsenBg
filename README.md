@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohsenBg
 - 👀 I’m interested in web Development and  i ilke any idea if you tell me or any qustion you have
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on links below <br/>
+- 📫 Contact me on links below <br/>
 
 
 🔗Email: <br>
