@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohsenBg
-- 👀 👀 I’m interested in web  and black chain Developer also I like any idea if you tell me or any question you have !
+- 👀 👀 I’m interested in web  and blockChain Developer also I like any idea if you tell me or any question you have !
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact me whit links below <br/>
 
