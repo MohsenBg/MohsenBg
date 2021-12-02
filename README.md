@@ -5,7 +5,7 @@
 
 
 🔗Email: <br>
-👉 moh.1380.1393@gmnail.com
+👉 moh.1380.1393@gmail.com
 
 🔗Facebook: <br>
 👉 https://www.facebook.com/mohsen.bagheri.750546
