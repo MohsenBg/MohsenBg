@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @MohsenBg
-- 👀 👀 I’m interested in web  and BlockChain Developer also I like any idea if you tell me or any question you have !
+- 👀 👀 I’m interested in web also I like any idea if you tell me or any question you have !
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact me whit links below <br/>
-
+- Programing language I use:  &nbsp; C++ &nbsp; C# &nbsp; Javascript / Typescript &nbsp; Python 
+- Also know : Html  &nbsp; Css  &nbsp; Sass  &nbsp; etc... 
 
 🔗Email: <br>
 👉 moh.1380.1393@gmail.com
