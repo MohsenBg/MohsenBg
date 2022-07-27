@@ -2,7 +2,7 @@
 - 👀 👀 I’m interested in web also I like any idea if you tell me or any question you have !
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact me whit links below <br/>
-- Programing language I use:  &nbsp; C++ &nbsp; C# &nbsp; Javascript / Typescript &nbsp; Python 
+- Programing language I use:  &nbsp; C++ &nbsp; C# &nbsp; Javascript / Typescript &nbsp; Python Rust
 - Also know : Html  &nbsp; Css  &nbsp; Sass  &nbsp; React  &nbsp; Redux  &nbsp; Node.JS  &nbsp; etc... 
 
 🔗Email: <br>
