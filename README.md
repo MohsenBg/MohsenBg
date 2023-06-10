@@ -541,7 +541,7 @@
 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center">
-  <div style="flex: 1 1 400px; margin: 10px">
+  <div style="flex: 1 1 350px; margin: 10px">
     <a href="https://git.io/streak-stats">
       <img
         src="https://streak-stats.demolab.com/?user=mohsenbg&theme=dark"
@@ -549,27 +549,26 @@
       />
     </a>
   </div>
-  <div style="flex: 1 1 400px; margin: 10px">
+  <div style="flex: 1 1 350px; margin: 10px">
     <img
       src="https://github-readme-stats.vercel.app/api?username=mohsenbg&show_icons=true&theme=radical"
       alt="GitHub Stats"
     />
   </div>
 
-  <div style="flex: 1 1 200px; margin: 10px">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenbg&hide=css,scss,html&layout=pie&langs_count=10&theme=radical"
-      alt="Top Languages"
-    />
-  </div>
-
-  <div style="flex: 1 1 500px; margin: 10px">
+  <div style="flex: 1 1 350px; margin: 10px">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img
         src="https://github-profile-trophy.vercel.app/?username=mohsenbg&theme=radical"
         alt="GitHub Profile Trophy"
       />
     </a>
+  </div>
+  <div style="flex: 1 1 350px; margin: 10px">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenbg&hide=css,scss,html&layout=pie&langs_count=10&theme=radical"
+      alt="Top Languages"
+    />
   </div>
 </div>
 
