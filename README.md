@@ -59,7 +59,7 @@
 </p>
 
 <h3>Programming Languages Usage</h3>
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenbg&hide=css,scss,html&layout=pie&langs_count=10&theme=radical" alt="Top Languages">
 </p>
 
