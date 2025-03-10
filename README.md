@@ -31,9 +31,10 @@
     </a>
   </li>
   <li>
-    <a style="display: flex; align-items: center;" href="https://twitter.com/mohsen_bg_" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="30">
-      <span style="margin-left: 10px;">Twitter</span>
+    <a style="display: flex; align-items: center;" href="https://x.com/Mohsen_Bg1" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/300px-X_logo_2023.svg.png"
+        alt="X" height="30" width="30" style="background-color: white; border-radius: 50%; padding: 5px;">
+      <span style="margin-left: 10px;">X</span>
     </a>
   </li>
   <li>
