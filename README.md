@@ -10,7 +10,7 @@
   <li>I'm currently focused on learning low-level programming and reverse engineering. Although my focus might change in the future, I'm dedicated to mastering these areas for now.</li>
   <li>🚫 I’ve shifted away from web development and don't actively use it, except for when needed like ASP.NET backend.</li>
   <li>❤️‍🔥 I’m looking to collaborate on exciting software projects and low-level programming challenges.</li>
-  <li>💻 Programming Languages: C, C++, C#, Assembly,Go ,JavaScript / TypeScript, Python</li>
+  <li>💻 Programming Languages: C, C++, C#, Assembly, Go, JavaScript / TypeScript, Python</li>
   <li>🔧 Also Familiar With: Reverse Engineering Tools (Ghidra, Cutter, IDA Free), Windows Internals, and more...</li>
 </ul>
 
